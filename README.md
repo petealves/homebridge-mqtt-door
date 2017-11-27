@@ -2,6 +2,7 @@
 
 Config JSON - Example: 
 
+```
 {
   "accessory": "mqttdoor",
   "name": "Building Door",
@@ -16,3 +17,4 @@ Config JSON - Example:
   "onValue": "UNLOCK",
   "offValue": "LOCK"
 }
+```
