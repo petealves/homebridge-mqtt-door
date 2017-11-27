@@ -1,6 +1,11 @@
 # homebridge-mqtt-door
 
-Config JSON - Example: 
+# Install:
+```
+sudo npm install -g homebridge-mqtt-door
+```
+
+# Config JSON - Example: 
 
 ```
 {
