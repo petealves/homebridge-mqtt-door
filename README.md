@@ -14,7 +14,7 @@ sudo npm install -g homebridge-mqtt-door
 {
   "accessory": "mqtt-door",
   "name": "Building Door",
-  "url": "mqtt://192.168.1.160:1883",
+  "url": "YOUR MQTT IP:PORT",
   "username": "username",
   "password": "password",
   "caption": "BuildingDoor",
